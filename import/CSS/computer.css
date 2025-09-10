@@ -1,0 +1,26 @@
+@media (min-width: 564px)  {
+  .platform ul li a span{
+  display: block;
+  
+ }
+ .platform ul li a{
+   color: white;
+   text-decoration: none;
+ }
+ .platform ul li{
+   background: #3281F433;
+   padding: 10px;
+   margin: 0 10px;
+   border-radius: 10px;
+ }
+ .hero{
+   display: flex;
+   flex-direction: row;
+ }
+ .title{
+   width: 45%;
+   text-align: initial;
+   margin-left: 90px;
+ }
+}
+

@@ -3,7 +3,7 @@
   --color-black: #000000;
   --color-white: #FFFFFF;
   --color-bebe-blue: #3281F4;
-  --bg-dark-gray: #101010;
+  --bg-dark-gray: #0F0E11;
   
   
   /* size variable */
@@ -12,3 +12,5 @@
   --size-laptop-header: 10px 30px;
   --size-computer-header: 10px 40px
 }
+
+

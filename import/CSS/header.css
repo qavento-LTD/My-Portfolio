@@ -10,7 +10,13 @@
   font-size: 15px;
 }
 
-
+.head{
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  
+}
 
 
 
@@ -20,10 +26,10 @@
   justify-content: space-between;
   align-items: center;
   padding: var(--size-mobile-header);
-  background: #7C7C7C59;
-  margin: 8px 10px;
-  border-radius: 10px;
+  background: transparent;
   backdrop-filter: blur(20px);
+  padding: 15px 25px;
+  border-bottom: 1px solid #383838;
 }
 
 
@@ -46,7 +52,6 @@
 .platform ul li a span{
   display: none;
 }
-.platform ul li img{
-  margin: 0 5px;
-  width: 23px;
+.platform ul li a {
+  padding: 0 6px;
 }
