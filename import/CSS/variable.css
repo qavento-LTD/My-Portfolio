@@ -2,12 +2,12 @@
   /* color variable */
   --color-black: #000000;
   --color-white: #FFFFFF;
-  --color-bright-red: #EA5151;
-  --bg-dark-gray: #202020;
+  --color-bebe-blue: #3281F4;
+  --bg-dark-gray: #101010;
   
   
   /* size variable */
-  --size-mobile-header: 8px 15px;
+  --size-mobile-header: 15px 10px;
   --size-tablet-header: 10px 20px;
   --size-laptop-header: 10px 30px;
   --size-computer-header: 10px 40px
