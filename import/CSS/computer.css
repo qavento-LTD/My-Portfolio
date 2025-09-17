@@ -1,0 +1,68 @@
+@media (min-width: 564px)  {
+  .container{
+    padding: var(--size-tablet-header);
+  }
+  .title{ 
+    width: 80%;
+    text-align: initial;
+  }
+  .title p {
+    width: 70%;
+  }
+  .platform ul li a span{
+  display: block;
+  
+ }
+ .platform ul li a{
+   color: white;
+   text-decoration: none;
+   
+ }
+ .platform ul li a img{
+   width: 20px;
+   margin-right: 10px;
+ }
+ .platform ul li{
+   background: #232323;
+   padding: 5px 10px;
+   margin: 0 10px;
+   border-radius: 10px;
+ }
+ .hero{
+   display: flex;
+   flex-direction: row;
+ }
+ .navbar{
+   padding: 0 17px;
+ }
+ #about{
+   flex-direction: row !important;
+   padding: var(--size-tablet-header) !important;
+   padding: 100px 40px !important
+ }
+ .about-title{
+   text-align: initial;
+   margin-left: 130px;
+ }
+ #skills{
+   grid-template-columns: 1fr 1fr 1fr 1fr;
+   padding: 50px 40px;
+ }
+ #skil h2{
+   font-size: 40px;
+   text-transform: capitalize;
+   color: var(--color-ghost-white);
+ }
+ #project > h2{
+   margin-left: 77% !important;
+   font-size: 40px!important;
+   text-transform: capitalize;
+ }
+ .projects{
+   grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)) !important;
+ }
+ .contact-form{
+   padding: 40px 270px !important;
+ }
+}
+

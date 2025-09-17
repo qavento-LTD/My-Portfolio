@@ -1,0 +1,39 @@
+Name: محمد
+Role: طالب، مبرمج
+Age: 17
+Location: مصر
+Status: طالب في الثانوية العامة
+
+=========================
+Skills
+=========================
+- HTML, CSS, JavaScript (Front-End Web Development)
+- React Native (Mobile Development)
+- Kotlin و Java (Android Development)
+- C++ (OOP, Compiler Design Basics)
+- Git & GitHub (Project Management using Termux)
+- Sketchware (Android App Prototyping)
+- Termux (Linux tools, XFCE4 Desktop, Proot-Distro)
+- Cybersecurity Basics (Ethical Hacking, Penetration Testing on Mobile)
+- Building a custom programming language (Lexer, Parser, Interpreter, Compiler concepts)
+- Full Stack Web Development (Roadmap in progress)
+
+=========================
+Projects
+=========================
+- بناء تطبيقات أندرويد باستخدام Sketchware و Kotlin
+- تصميم Portfolio Website
+- مشروع بناء لغة برمجة جديدة باسم nujz (Lexer, Parser, CLI)
+- تجارب على React Native من الهاتف
+- تطبيقات ويب متكاملة (قيد التعلم)
+
+=========================
+Goals
+=========================
+- أن أصبح Full Stack Web Developer محترف
+- بناء لغة برمجة متكاملة قادرة على تطوير أنظمة تشغيل
+- العمل الحر على مواقع مثل خمسات
+- تعلم الأمن السيبراني والاختبار على الهاتف
+- إتقان جميع مفاهيم C++
+
+Generated on: 2025-09-17

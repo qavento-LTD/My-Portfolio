@@ -1,0 +1,16 @@
+:root {
+  /* color variable */
+  --color-ghost-white: #f5faff;
+  --color-bluish-purple: #5546fa;
+  --color-charcoal-black: #060613;
+  
+  
+  
+  /* size variable */
+  --size-mobile-header: 20px 10px;
+  --size-tablet-header: 24px 50px;
+  --size-laptop-header: 10px 30px;
+  --size-computer-header: 10px 40px;
+}
+
+

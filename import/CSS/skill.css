@@ -1,0 +1,29 @@
+.skill{
+  background: #5546FA57;
+  padding: var(--size-mobile-header);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 40px;
+  
+}
+.skill span{
+  color: white;
+  text-transform: capitalize;
+}
+#skills{
+  display: grid;
+  gap: 15px;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  padding: 50px 0;
+}
+#skil{
+  margin: 50px 20px;
+}
+#skil h2{
+  padding: 0 50px;
+  color: white;
+}
